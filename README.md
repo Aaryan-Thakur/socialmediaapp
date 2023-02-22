@@ -1,1 +1,1 @@
-This is public commit
+This is a public commit
